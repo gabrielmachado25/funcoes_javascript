@@ -1,0 +1,27 @@
+
+- Funções são blocos de códigos reutilizáveis;
+- Ou seja, evitamos a repetição da lógica de um programa em diversas partes do código;
+- A função precisa ser invocada para ser executada;
+- Vamos ver na prática!
+
+function aí depois vem o nome da função, abre e fecha parenteses que é onde colocamos
+'argumentos', mas podemos criar sem também...
+
+ARRAY E VETOR:
+Array ou vetor é uma estrutura de dados indexada que pode armazenar múltiplos valores.
+
+Array é um tipo especial de variável...
+
+Array ou vetor pode ser entendido como uma forma especial de trabalhar com as variáveis.
+
+Array armazena os dados como se fosse uma lista e cada item da lista tem um identificador
+chamado de índice. É pelo índice que a gente adiciona, recupera ou modifica o item da lista.
+
+O índice do array começa sempre em 0 e o tamanho do array é determinado pelo número de
+itens da lista.
+
+ARRAY MULTIDIMENSIONAL OU MATRIZ:
+Array multidimensional ou matriz é um array de array
+
+Arrays podem ser bidimensionais, por exemplo jogo de xadrez
+Podem ser tridimensionais também, por exemplo um cubo
